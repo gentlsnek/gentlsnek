@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gentlsnek
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...python and javascript
+- 🌱 I’m currently learning ...python,javascript,c
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...erwinpimenta1644@gmail.com
+- 📫 How to reach me ...thedudeboy007@gmail.com
+-
 
 <!---
 gentlsnek/gentlsnek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

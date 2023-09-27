@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gentlsnek
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...python,javascript,c
+- 🌱 I’m currently learning ...java,c#,c.
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...thedudeboy007@gmail.com
 -

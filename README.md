@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erwin Pimenta</h1>
-<h3 align="center">aspiring fullstack developer</h3>
+<h1 align="center">Gave up on life, studying rust</h1>
+
 
 <p align="left"> <a href="https://twitter.com/erwinpimenta" target="blank"><img src="https://img.shields.io/twitter/follow/erwinpimenta?logo=twitter&style=for-the-badge" alt="erwinpimenta" /></a> </p>
 

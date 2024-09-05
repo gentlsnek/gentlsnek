@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/erwinpimenta" target="blank"><img src="https://img.shields.io/twitter/follow/erwinpimenta?logo=twitter&style=for-the-badge" alt="erwinpimenta" /></a> </p>
 
-- 🌱 I’m currently learning **React and Node.Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

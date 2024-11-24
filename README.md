@@ -1,4 +1,4 @@
-<h1 align="center">Gave up on life, studying rust</h1>
+<h1 align="center">Gave up on life</h1>
 
 
 <p align="left"> <a href="https://twitter.com/erwinpimenta" target="blank"><img src="https://img.shields.io/twitter/follow/erwinpimenta?logo=twitter&style=for-the-badge" alt="erwinpimenta" /></a> </p>

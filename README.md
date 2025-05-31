@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gentlsnek(Erwin Pimenta)</h1>
 <h3 align="center">passionate in software development and aiml</h3>
 
-- 🔭 I’m currently working on **on a webscrapper using go**
+-  I’m currently working on **on a webscrapper using go**
 
-- 🌱 I’m currently learning **Go for cli and backend development**
+-  I’m currently learning **Go for cli and backend development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

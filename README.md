@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gentlsnek(Erwin Pimenta)</h1>
 
-<h3 align="center">passionate in software development and aiml</h3>
-- I’m currently learning **Go for CLI and backend development**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
